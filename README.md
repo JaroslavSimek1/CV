@@ -10,6 +10,8 @@ To run this project on your local machine, follow these steps:
 
 4. Start Docker containers using the following command: "docker-compose up --build" psst.. it might take some time
 
-5. http://localhost:8000/admin/ - django admin - pass:admin, username:admin
+5. http://localhost:8000/admin/ - django admin - pass:"admin", username:"admin"
 
 6. http://localhost:3000/ - app it self
+
+7. already created account with data: email: "test@test.cz" pass: "test"
