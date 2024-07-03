@@ -17,4 +17,4 @@ To run this project on your local machine, follow these steps:
 7. already created account with data: email: "test@test.cz" pass: "test"
 
 
-PS: nechal jsem tam i databázi ať nemusíte řešit dump databáze atd..
+PS: nechal jsem tam i databázi ať nemusíte řešit dump databáze atd.. 
